@@ -2,7 +2,7 @@
 
 ## LATIHAN 1
 
-\1_soal\
+![gambar1](gambar/Latihan-1/1_soal.PNG)
 
 ### JAWABAN
   - Buka text editor, PyCharm, Atom, Visual Studio, dan lain-lain. Kemudian salin kode berikut
@@ -19,11 +19,11 @@
         9
 
 
-\2_kode\
+  ![gambar2](gambar/Latihan-1/2_kode.PNG)
 
   - Kemudian simpan dengan nama ```latihan1.py```, lalu jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-\3_output\
+    ![gambar3](gambar/Latihan-1/3_output.PNG)
 
 ### PENJELASAN
   - Pada baris pertama dan ke dua program `lathan1.py`, terdapat fungsi _`for`_ yang merupakan jenis perulangan yang terhitung / _counted loop_.
@@ -64,7 +64,7 @@
 
 ## LATIHAN 2
 
-\Latihan-2/1_soal\
+![gambar4](gambar/Latihan-2/1_soal.PNG)
 
 ### JAWABAN
   - Buka text editor, PyCharm, Atom, Visual Studio, dan lain-lain. Kemudian salin kode berikut
@@ -79,11 +79,11 @@
         7       print(i)
         8
 
-\Latihan-2/2_kode\
+![gambar5](gambar/Latihan-2/2_kode.PNG)
 
   - Kemudian simpan dengan nama ```latihan2.py```, lalu jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-\Latihan-2/3_output\
+  ![gambar6](gambar/Latihan-2/3_output.PNG)
 
 ### PENJELASAN
   - Pada baris pertama program `latihan2.py`, tertulis _`import random`_ yang berarti kita meng-impor modul/ _library_ bawaan dari python bernama **random**. Modul ini berisi bilangan acak, dengan bentuk **float**.
